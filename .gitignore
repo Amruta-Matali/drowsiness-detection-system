@@ -1,0 +1,35 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+virtual_env_drowsness/
+
+# Dataset folders
+dataset/
+cew_prepared/
+external_datasets/
+
+# Temporary and captured images
+captured_images/
+*.tmp
+*.temp
+
+# Streamlit configuration
+.streamlit/secrets.toml
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
